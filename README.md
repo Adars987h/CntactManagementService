@@ -50,6 +50,14 @@ The application will run on http://localhost:3001.
 - __MySQL__: Database
 - __Sequelize__: ORM
 
+## Screenshots
+- ![image Contact](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Screenshot%202024-11-16%20163938.png)
+
+- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Screenshot%202024-11-16%20163949.png)
+ 
+- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Screenshot%202024-11-16%20164036.png)
+
+- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Screenshot%202024-11-16%20164051.png)
 
 ## 👨‍💻 Authors
 __Adarsh Srivastava__ - Full Stack Developer
