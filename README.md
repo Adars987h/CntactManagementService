@@ -31,9 +31,9 @@ npm install
 ```
 
 ### 3. Setup the Databse(MySQL)
-Use the command below to create a new database with the name "ErinoDb"
+Use the command below to create a new database with the name "contactdb"
 ```
-CREATE DATABASE ErinoDb;
+CREATE DATABASE contactdb;
 ```
 ### 4. Start the Development Server
 

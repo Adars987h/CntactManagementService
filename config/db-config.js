@@ -1,6 +1,6 @@
 const { Sequelize } = require('sequelize');
 
-const sequelize = new Sequelize('erinoDb', 'root', 'root', {
+const sequelize = new Sequelize('contactdb', 'root', 'root', {
   host: 'localhost',
   dialect: 'mysql',
   
