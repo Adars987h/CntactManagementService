@@ -51,13 +51,15 @@ The application will run on http://localhost:3001.
 - __Sequelize__: ORM
 
 ## Screenshots
-- ![image Contact](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Screenshot%202024-11-16%20163938.png)
+- ![image Contact](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Landing.png)
 
-- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Screenshot%202024-11-16%20163949.png)
+- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Add.png)
  
-- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Screenshot%202024-11-16%20164036.png)
+- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Edit.png)
 
-- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Screenshot%202024-11-16%20164051.png)
+- ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/EditDelete.png)
+
+-  ![image Contact Page](https://github.com/Adars987h/ContactManagementUI/blob/main/screenshots/Validation.png)
 
 ## 👨‍💻 Authors
 __Adarsh Srivastava__ - Full Stack Developer
